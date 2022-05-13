@@ -1,0 +1,14 @@
+C:\Users\esto0\source\repos\ListLes\ListLes\bin\Debug\netcoreapp3.1\ListLes.exe
+C:\Users\esto0\source\repos\ListLes\ListLes\bin\Debug\netcoreapp3.1\ListLes.deps.json
+C:\Users\esto0\source\repos\ListLes\ListLes\bin\Debug\netcoreapp3.1\ListLes.runtimeconfig.json
+C:\Users\esto0\source\repos\ListLes\ListLes\bin\Debug\netcoreapp3.1\ListLes.runtimeconfig.dev.json
+C:\Users\esto0\source\repos\ListLes\ListLes\bin\Debug\netcoreapp3.1\ListLes.dll
+C:\Users\esto0\source\repos\ListLes\ListLes\bin\Debug\netcoreapp3.1\ListLes.pdb
+C:\Users\esto0\source\repos\ListLes\ListLes\obj\Debug\netcoreapp3.1\ListLes.csproj.AssemblyReference.cache
+C:\Users\esto0\source\repos\ListLes\ListLes\obj\Debug\netcoreapp3.1\ListLes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esto0\source\repos\ListLes\ListLes\obj\Debug\netcoreapp3.1\ListLes.AssemblyInfoInputs.cache
+C:\Users\esto0\source\repos\ListLes\ListLes\obj\Debug\netcoreapp3.1\ListLes.AssemblyInfo.cs
+C:\Users\esto0\source\repos\ListLes\ListLes\obj\Debug\netcoreapp3.1\ListLes.csproj.CoreCompileInputs.cache
+C:\Users\esto0\source\repos\ListLes\ListLes\obj\Debug\netcoreapp3.1\ListLes.dll
+C:\Users\esto0\source\repos\ListLes\ListLes\obj\Debug\netcoreapp3.1\ListLes.pdb
+C:\Users\esto0\source\repos\ListLes\ListLes\obj\Debug\netcoreapp3.1\ListLes.genruntimeconfig.cache
